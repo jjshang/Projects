@@ -1,0 +1,4 @@
+﻿rate_id,description,description_data,rate,component_id,component_name,trnx_authorization_1,parent_partner_tier,parent_payout_region,contract_type_final,partner_type,start_date,end_date,standard_rate_only,domestic_ultimate_csn,precedence
+80000,VI - Total Billing,{},0.0,68000,VI - Total Billing,,,,,Distributor,11/01/2020,01/31/2021,,,100
+80001,VI - Program Eligible Billing,{},0.0,69000,VI - Program Eligible Billing,,,,,Distributor,11/01/2020,01/31/2021,,,100
+80002,VI-Value Incentive (All)-N/A-USCanada-VAD,{},0.008,70000,VI - Payout Eligible Billing,Value Incentive (All),,USCanada,VAD,Distributor,11/01/2020,01/31/2021,False,,100
